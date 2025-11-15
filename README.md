@@ -1,5 +1,7 @@
 # pg
 Really simple password generator in under 10 lines of code.
+<br>
+This project will be rewriten in the C++ programming language.
 ## License Information 
 pg Copyright (C) 2025 Zugrăvel Teodor  
 This program comes with ABSOLUTELY NO WARRANTY.  
